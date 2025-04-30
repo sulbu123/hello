@@ -32,4 +32,4 @@
 [streamlit 실행하기]( https://byrnxde9tqw365bmqjtdu8.streamlit.app/)
 
 # 이미지파일
-![앱화면예시](C:\Users\Admin\Desktop\img\img)
+[앱화면예시](C:\Users\Admin\Desktop\img\img)
